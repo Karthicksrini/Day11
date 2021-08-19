@@ -1,0 +1,65 @@
+/* .name{
+    display: flex;
+
+} */
+
+body{
+    justify-content: center;
+}
+
+p{
+    color:white;
+    background-color: red;
+    font-weight: bolder;
+}
+.container{
+    border:2px solid black;
+    margin:10px;
+    background-color: white;
+    padding:15px;
+    width: 100%;
+
+}
+
+.check{
+    font-weight: bold;
+}
+
+body{
+ display: flex;
+ align-items: center;
+}
+
+input[type=text]{
+    border: none;
+    border-bottom: 2px solid red;
+}
+/* 
+input[type=text]{
+    display: inline-block;
+    width: 6em;
+    position: relative;
+
+  }
+  
+  label[type=text] {
+    display: inline-block;
+    width: 6em;
+    margin-right: .10em;
+    padding-top: 2.5em;
+  }  */
+
+  .name input[type=text]{
+
+  }
+input[value]{
+    text-align:center;
+}
+
+.address input[type=text]{
+    width:100%
+}
+
+.name{
+    width:100%;
+}
